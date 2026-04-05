@@ -35,6 +35,12 @@ wheels/
 *.swo
 *~
 
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+maersk_outputs/
+*_outputs/
+
 # OS
 .DS_Store
 Thumbs.db
